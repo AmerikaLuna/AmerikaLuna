@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AmerikaLuna
+- 👀 I’m interested in software testing 
+- 🌱 I’m currently learning software testing 
+- 📫 How to reach me @ sondracoppedge@icloud.com
